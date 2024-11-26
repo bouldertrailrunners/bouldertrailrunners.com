@@ -25,7 +25,7 @@ HHR is hosted by a rotating list of 5-8 runner-leaders. Each run is 60-90 minute
 
 Afterwards (around 7PM), we usually head to Sherpa's Adventure Restaurant and Bar for dinner and drinks.
 
-If you would like to become an HHR leader, please email the [Managers](mailto:bouldertrailrunners+managers@googlegroups.com).
+If you would like to become an HHR leader, please email the [Managers](mailto:bouldertrailrunners+manager@googlegroups.com).
 
 ### Night Run - Tuesdays @ 8:30PM
 
@@ -43,7 +43,7 @@ The most infamous run in Boulder: The Church of the Holy Long Run. Originally an
 
 - All runs are announced on our email list.
 - Any member can host a run, simply [email the list](mailto:bouldertrailrunners@googlegroups.com) and include date, time, location, and pace expectations.
-  - If you want to regularly host a run, email the [managers](mailto:bouldertrailrunners+managers@googlegroups.com) to ask for unmoderation
+  - If you want to regularly host a run, email the [managers](mailto:bouldertrailrunners+manager@googlegroups.com) to ask for unmoderation
 - No ads or solicitation are allowed at all. The penalty for repeated attempts is removal from the group.
 
 Read our full [Community Guidelines](guidelines/)
