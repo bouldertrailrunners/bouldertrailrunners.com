@@ -46,7 +46,7 @@ The most infamous run in Boulder: The Church of the Holy Long Run. Originally an
   - If you want to regularly host a run, email the [managers](mailto:bouldertrailrunners+manager@googlegroups.com) to ask for unmoderation
 - No ads or solicitation are allowed at all. The penalty for repeated attempts is removal from the group.
 
-Read our full [Community Guidelines](guidelines/)
+Read our full [Community Guidelines](guidelines.html)
 
 ## Socials
 
